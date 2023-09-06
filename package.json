@@ -1,8 +1,8 @@
 {
-  "name": "project-savePets05",
+  "name": "your-pet-project",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://olgamunaieva.github.io/project-savePets05/",
+  "homepage": "https://Demniks.github.io/your-pet-project/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
     "@testing-library/jest-dom": "^5.16.3",
